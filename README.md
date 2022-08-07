@@ -1,1 +1,3 @@
-# World_Weather_Analysis
+# World Weather Analysis
+
+The goal of this challenge was to use API calls to a weather database to gather weather information from random cities around the world to create a vacation planning application. The weather database was created first, and the weather information was used as the base for the vacation planning application. The vacation search accepts input from the user, asking the temperature range that is preferred for their vacation. This input is used to narrow down the created dataframe, and the locations suiting the users input are displayed on an interactive map created from Google Maps API. The vacation itinerary showcases the directions aspect of using the Google Directions API. Four cities are chosen from the same country, and a route is planned between the four.
